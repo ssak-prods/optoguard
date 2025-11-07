@@ -105,3 +105,4 @@ object_talker_ai/
 This assistant turns your laptop into a **real-time visual observer** that **understands and narrates** its surroundings — useful in accessibility, ambient monitoring, or just fun AI experimentation.  
 Built for **clarity, performance, and expandability**, perfect for expo demos and real-world applications alike.
 
+learning commits lol
