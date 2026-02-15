@@ -1,0 +1,295 @@
+condition,frame_idx,class,confidence_mean,confidence_std,latency_ms,hardware
+baseline,0,remote,0.6777,0.0469,149.26,laptop
+baseline,1,tv,0.8125,0.0532,194.54,laptop
+baseline,1,remote,0.8255,0.0348,194.54,laptop
+baseline,1,person,0.8549,0.0421,194.54,laptop
+baseline,1,chair,0.7419,0.0661,194.54,laptop
+baseline,1,bottle,0.7526,0.0762,194.54,laptop
+baseline,2,tv,0.6837,0.0285,109.04,laptop
+baseline,2,bottle,0.7991,0.055,109.04,laptop
+baseline,2,keyboard,0.7019,0.0267,109.04,laptop
+baseline,3,bottle,0.7526,0.01,142.55,laptop
+baseline,3,book,0.6939,0.0313,142.55,laptop
+baseline,4,cell phone,0.7942,0.0455,156.16,laptop
+baseline,5,book,0.8776,0.0731,155.04,laptop
+baseline,5,cup,0.6679,0.0343,155.04,laptop
+baseline,5,keyboard,0.8866,0.0363,155.04,laptop
+baseline,5,mouse,0.7739,0.0651,155.04,laptop
+baseline,5,laptop,0.8511,0.0209,155.04,laptop
+baseline,6,laptop,0.9193,0.0563,127.76,laptop
+baseline,6,bottle,0.6913,0.0584,127.76,laptop
+baseline,6,mouse,0.764,0.0586,127.76,laptop
+baseline,6,tv,0.7179,0.0507,127.76,laptop
+baseline,6,person,0.8337,0.0684,127.76,laptop
+baseline,7,chair,0.6927,0.069,159.67,laptop
+baseline,7,tv,0.8557,0.0455,159.67,laptop
+baseline,7,bottle,0.885,0.0386,159.67,laptop
+baseline,8,cell phone,0.7956,0.0748,159.51,laptop
+baseline,8,person,0.6802,0.0269,159.51,laptop
+baseline,9,bottle,0.6731,0.0561,135.88,laptop
+baseline,9,bottle,0.9141,0.0374,135.88,laptop
+baseline,9,tv,0.6946,0.0434,135.88,laptop
+baseline,10,remote,0.8363,0.0498,124.0,laptop
+baseline,10,chair,0.9187,0.0355,124.0,laptop
+baseline,10,bottle,0.7169,0.032,124.0,laptop
+baseline,10,person,0.8088,0.0463,124.0,laptop
+baseline,10,mouse,0.6659,0.0555,124.0,laptop
+baseline,11,mouse,0.7811,0.0406,139.39,laptop
+baseline,12,chair,0.7014,0.0398,123.08,laptop
+baseline,12,chair,0.7457,0.0196,123.08,laptop
+baseline,12,mouse,0.9157,0.0609,123.08,laptop
+baseline,12,chair,0.8466,0.0473,123.08,laptop
+baseline,12,tv,0.7711,0.0381,123.08,laptop
+baseline,13,tv,0.6764,0.0521,99.33,laptop
+baseline,13,tv,0.8757,0.0786,99.33,laptop
+baseline,13,cell phone,0.7597,0.0384,99.33,laptop
+baseline,14,dining table,0.727,0.0398,195.06,laptop
+baseline,14,remote,0.9188,0.0226,195.06,laptop
+baseline,14,cup,0.7088,0.0368,195.06,laptop
+baseline,14,remote,0.7964,0.0449,195.06,laptop
+baseline,15,tv,0.6925,0.0509,128.82,laptop
+baseline,15,keyboard,0.6683,0.0435,128.82,laptop
+baseline,15,chair,0.6824,0.0537,128.82,laptop
+baseline,15,keyboard,0.6721,0.0378,128.82,laptop
+baseline,15,keyboard,0.7912,0.0543,128.82,laptop
+baseline,16,cell phone,0.8314,0.041,130.15,laptop
+baseline,16,bottle,0.6525,0.0574,130.15,laptop
+baseline,17,cup,0.6858,0.0449,142.02,laptop
+baseline,17,bottle,0.8874,0.039,142.02,laptop
+baseline,17,remote,0.7317,0.0514,142.02,laptop
+baseline,17,mouse,0.7928,0.0356,142.02,laptop
+baseline,17,bottle,0.9035,0.0284,142.02,laptop
+baseline,18,cup,0.8133,0.0292,157.81,laptop
+baseline,19,cup,0.8944,0.0179,121.51,laptop
+baseline,19,bottle,0.8213,0.0472,121.51,laptop
+baseline,20,cup,0.6936,0.0231,130.25,laptop
+baseline,20,bottle,0.6703,0.0534,130.25,laptop
+baseline,21,cell phone,0.766,0.0643,102.24,laptop
+baseline,21,person,0.8927,0.0478,102.24,laptop
+baseline,22,chair,0.9129,0.0449,148.21,laptop
+baseline,22,cell phone,0.9136,0.0108,148.21,laptop
+baseline,22,chair,0.6567,0.0439,148.21,laptop
+baseline,22,mouse,0.8833,0.0316,148.21,laptop
+baseline,22,cup,0.693,0.07,148.21,laptop
+baseline,23,dining table,0.7444,0.058,118.15,laptop
+baseline,23,mouse,0.7021,0.0176,118.15,laptop
+baseline,24,chair,0.8335,0.0425,149.25,laptop
+baseline,25,cell phone,0.8068,0.0422,143.27,laptop
+baseline,25,person,0.6793,0.0228,143.27,laptop
+baseline,25,keyboard,0.9157,0.0547,143.27,laptop
+baseline,26,tv,0.8999,0.0492,136.99,laptop
+baseline,26,remote,0.9039,0.0442,136.99,laptop
+baseline,26,mouse,0.8986,0.0351,136.99,laptop
+baseline,26,mouse,0.879,0.0426,136.99,laptop
+baseline,26,chair,0.7381,0.0326,136.99,laptop
+baseline,27,mouse,0.852,0.0562,148.1,laptop
+baseline,27,keyboard,0.7313,0.0446,148.1,laptop
+baseline,27,chair,0.8622,0.0449,148.1,laptop
+baseline,27,book,0.7755,0.0353,148.1,laptop
+baseline,27,remote,0.6958,0.0487,148.1,laptop
+baseline,28,laptop,0.8317,0.0271,122.11,laptop
+baseline,28,laptop,0.6898,0.0863,122.11,laptop
+baseline,28,bottle,0.773,0.0573,122.11,laptop
+baseline,28,keyboard,0.7025,0.0392,122.11,laptop
+baseline,28,mouse,0.8357,0.0285,122.11,laptop
+baseline,29,remote,0.7898,0.0346,137.25,laptop
+baseline,30,dining table,0.8302,0.0412,142.95,laptop
+baseline,30,keyboard,0.7357,0.0455,142.95,laptop
+baseline,31,tv,0.7704,0.0611,115.55,laptop
+baseline,31,laptop,0.8768,0.0701,115.55,laptop
+baseline,31,tv,0.7808,0.0461,115.55,laptop
+baseline,31,laptop,0.7234,0.0611,115.55,laptop
+baseline,31,tv,0.6718,0.0536,115.55,laptop
+baseline,32,chair,0.7393,0.0397,149.37,laptop
+baseline,32,chair,0.8943,0.0461,149.37,laptop
+baseline,33,person,0.9045,0.025,154.05,laptop
+baseline,34,remote,0.8484,0.0154,161.98,laptop
+baseline,34,laptop,0.7818,0.0425,161.98,laptop
+baseline,34,mouse,0.8334,0.0621,161.98,laptop
+baseline,34,cell phone,0.8769,0.0819,161.98,laptop
+baseline,35,mouse,0.6573,0.0399,110.5,laptop
+baseline,35,person,0.7202,0.0387,110.5,laptop
+baseline,35,dining table,0.7382,0.046,110.5,laptop
+baseline,35,chair,0.7181,0.0304,110.5,laptop
+baseline,36,laptop,0.8255,0.0401,134.96,laptop
+baseline,37,person,0.8178,0.01,136.17,laptop
+baseline,38,remote,0.7192,0.0281,123.76,laptop
+baseline,38,keyboard,0.814,0.0449,123.76,laptop
+baseline,38,cup,0.6792,0.0638,123.76,laptop
+baseline,38,mouse,0.8952,0.0197,123.76,laptop
+baseline,39,mouse,0.7156,0.0409,165.27,laptop
+baseline,39,bottle,0.865,0.033,165.27,laptop
+baseline,39,person,0.7437,0.032,165.27,laptop
+baseline,39,book,0.6534,0.0513,165.27,laptop
+baseline,39,dining table,0.6785,0.0657,165.27,laptop
+baseline,40,remote,0.7909,0.0329,128.76,laptop
+baseline,40,dining table,0.7755,0.0282,128.76,laptop
+baseline,41,bottle,0.7253,0.0741,130.94,laptop
+baseline,41,dining table,0.8039,0.0383,130.94,laptop
+baseline,41,book,0.6991,0.0332,130.94,laptop
+baseline,41,cup,0.7419,0.062,130.94,laptop
+baseline,41,person,0.7895,0.0291,130.94,laptop
+baseline,42,remote,0.7785,0.0279,131.1,laptop
+baseline,42,dining table,0.8641,0.0539,131.1,laptop
+baseline,43,book,0.7778,0.0295,142.03,laptop
+baseline,43,book,0.745,0.042,142.03,laptop
+baseline,43,cup,0.7179,0.0521,142.03,laptop
+baseline,44,remote,0.7,0.0486,143.09,laptop
+baseline,44,tv,0.8111,0.0619,143.09,laptop
+baseline,44,laptop,0.73,0.0368,143.09,laptop
+baseline,44,cell phone,0.7241,0.0548,143.09,laptop
+baseline,44,tv,0.7289,0.0651,143.09,laptop
+baseline,45,keyboard,0.7268,0.0314,126.17,laptop
+baseline,46,dining table,0.6808,0.061,137.19,laptop
+baseline,46,mouse,0.6645,0.052,137.19,laptop
+baseline,46,keyboard,0.9063,0.0547,137.19,laptop
+baseline,47,keyboard,0.7109,0.0287,141.93,laptop
+baseline,47,keyboard,0.9173,0.0427,141.93,laptop
+baseline,47,keyboard,0.6663,0.0516,141.93,laptop
+baseline,47,mouse,0.707,0.0433,141.93,laptop
+baseline,48,chair,0.7716,0.064,136.45,laptop
+baseline,48,cup,0.6588,0.0421,136.45,laptop
+baseline,49,cup,0.8627,0.0294,149.26,laptop
+baseline,50,laptop,0.8249,0.0686,116.27,laptop
+baseline,50,cell phone,0.864,0.0297,116.27,laptop
+baseline,50,keyboard,0.8987,0.0293,116.27,laptop
+baseline,50,chair,0.9045,0.0513,116.27,laptop
+baseline,51,remote,0.737,0.0527,112.53,laptop
+baseline,51,bottle,0.7118,0.0314,112.53,laptop
+baseline,51,person,0.9199,0.0185,112.53,laptop
+baseline,51,cup,0.8056,0.0458,112.53,laptop
+baseline,52,cell phone,0.9192,0.0197,123.87,laptop
+baseline,52,dining table,0.7439,0.0558,123.87,laptop
+baseline,52,mouse,0.6782,0.0532,123.87,laptop
+baseline,52,mouse,0.9052,0.0581,123.87,laptop
+baseline,53,bottle,0.9119,0.0465,142.52,laptop
+baseline,53,tv,0.8727,0.0753,142.52,laptop
+baseline,53,person,0.7006,0.0452,142.52,laptop
+baseline,53,dining table,0.8189,0.0456,142.52,laptop
+baseline,53,cup,0.7683,0.0349,142.52,laptop
+baseline,54,remote,0.6928,0.0488,159.97,laptop
+baseline,55,bottle,0.7746,0.0508,124.24,laptop
+baseline,55,cell phone,0.7846,0.0413,124.24,laptop
+baseline,55,dining table,0.9147,0.0275,124.24,laptop
+baseline,55,tv,0.6891,0.0524,124.24,laptop
+baseline,55,cell phone,0.8833,0.0639,124.24,laptop
+baseline,56,person,0.7264,0.0673,118.04,laptop
+baseline,56,keyboard,0.8066,0.0289,118.04,laptop
+baseline,56,dining table,0.7432,0.0196,118.04,laptop
+baseline,56,tv,0.7518,0.0726,118.04,laptop
+baseline,57,laptop,0.8811,0.0339,120.12,laptop
+baseline,57,chair,0.7542,0.052,120.12,laptop
+baseline,58,keyboard,0.7396,0.0451,130.06,laptop
+baseline,58,dining table,0.6769,0.0472,130.06,laptop
+baseline,59,cup,0.7414,0.0373,133.31,laptop
+baseline,59,mouse,0.882,0.0247,133.31,laptop
+baseline,60,tv,0.6597,0.0226,108.7,laptop
+baseline,60,mouse,0.8348,0.0425,108.7,laptop
+baseline,60,bottle,0.8553,0.0555,108.7,laptop
+baseline,61,person,0.7376,0.053,109.02,laptop
+baseline,62,keyboard,0.8341,0.051,127.87,laptop
+baseline,62,cell phone,0.6713,0.0594,127.87,laptop
+baseline,62,keyboard,0.6886,0.0299,127.87,laptop
+baseline,63,dining table,0.8933,0.0506,109.17,laptop
+baseline,63,cell phone,0.6699,0.0869,109.17,laptop
+baseline,63,chair,0.8364,0.03,109.17,laptop
+baseline,64,laptop,0.753,0.059,140.56,laptop
+baseline,64,cup,0.918,0.0334,140.56,laptop
+baseline,64,cup,0.6522,0.0848,140.56,laptop
+baseline,65,cup,0.8595,0.0318,160.19,laptop
+baseline,66,remote,0.8572,0.0546,137.26,laptop
+baseline,66,cell phone,0.8196,0.0628,137.26,laptop
+baseline,66,dining table,0.659,0.0327,137.26,laptop
+baseline,67,cell phone,0.7042,0.0517,147.7,laptop
+baseline,67,book,0.7933,0.0692,147.7,laptop
+baseline,68,cup,0.8516,0.0411,117.46,laptop
+baseline,68,cell phone,0.8536,0.0513,117.46,laptop
+baseline,68,mouse,0.8455,0.0839,117.46,laptop
+baseline,68,book,0.6744,0.0401,117.46,laptop
+baseline,69,mouse,0.7208,0.0412,115.7,laptop
+baseline,69,mouse,0.9039,0.0912,115.7,laptop
+baseline,69,tv,0.7386,0.0519,115.7,laptop
+baseline,70,mouse,0.7602,0.0324,121.74,laptop
+baseline,71,tv,0.6866,0.0615,127.98,laptop
+baseline,72,chair,0.8268,0.057,109.1,laptop
+baseline,72,keyboard,0.7602,0.0487,109.1,laptop
+baseline,72,dining table,0.7701,0.0438,109.1,laptop
+baseline,72,book,0.6768,0.0376,109.1,laptop
+baseline,72,book,0.6663,0.0277,109.1,laptop
+baseline,73,laptop,0.8233,0.0362,166.85,laptop
+baseline,74,keyboard,0.7054,0.0492,150.4,laptop
+baseline,75,book,0.8591,0.0551,138.34,laptop
+baseline,75,keyboard,0.6508,0.0503,138.34,laptop
+baseline,75,cup,0.8656,0.0385,138.34,laptop
+baseline,75,person,0.6856,0.0284,138.34,laptop
+baseline,75,person,0.697,0.0656,138.34,laptop
+baseline,76,book,0.7886,0.0409,105.61,laptop
+baseline,76,tv,0.7098,0.0269,105.61,laptop
+baseline,76,mouse,0.7908,0.029,105.61,laptop
+baseline,76,person,0.6664,0.0299,105.61,laptop
+baseline,77,dining table,0.6698,0.0629,137.4,laptop
+baseline,77,cup,0.8186,0.055,137.4,laptop
+baseline,77,remote,0.7378,0.0634,137.4,laptop
+baseline,77,keyboard,0.7662,0.0444,137.4,laptop
+baseline,78,remote,0.8837,0.0276,150.72,laptop
+baseline,79,remote,0.6757,0.0595,106.09,laptop
+baseline,79,mouse,0.7188,0.0669,106.09,laptop
+baseline,80,bottle,0.7666,0.0445,127.12,laptop
+baseline,81,tv,0.8017,0.0376,117.63,laptop
+baseline,82,remote,0.6639,0.042,118.77,laptop
+baseline,82,tv,0.7074,0.0576,118.77,laptop
+baseline,82,laptop,0.8788,0.0337,118.77,laptop
+baseline,82,cup,0.805,0.0605,118.77,laptop
+baseline,83,mouse,0.8003,0.0406,167.83,laptop
+baseline,83,mouse,0.874,0.044,167.83,laptop
+baseline,83,cup,0.8988,0.0544,167.83,laptop
+baseline,83,cell phone,0.8849,0.0311,167.83,laptop
+baseline,83,mouse,0.9124,0.0389,167.83,laptop
+baseline,84,book,0.7341,0.0603,139.08,laptop
+baseline,84,keyboard,0.811,0.0515,139.08,laptop
+baseline,84,person,0.832,0.0392,139.08,laptop
+baseline,84,mouse,0.7645,0.0329,139.08,laptop
+baseline,84,tv,0.6807,0.0353,139.08,laptop
+baseline,85,cup,0.6623,0.0269,124.48,laptop
+baseline,85,keyboard,0.6648,0.0552,124.48,laptop
+baseline,85,cup,0.7282,0.0797,124.48,laptop
+baseline,86,remote,0.7121,0.0357,134.79,laptop
+baseline,86,mouse,0.8677,0.0922,134.79,laptop
+baseline,86,bottle,0.8828,0.0581,134.79,laptop
+baseline,86,keyboard,0.7592,0.0371,134.79,laptop
+baseline,87,keyboard,0.7742,0.0397,123.52,laptop
+baseline,87,bottle,0.7157,0.0318,123.52,laptop
+baseline,87,tv,0.6712,0.0621,123.52,laptop
+baseline,88,mouse,0.6808,0.0125,113.35,laptop
+baseline,88,remote,0.9087,0.043,113.35,laptop
+baseline,89,keyboard,0.6913,0.0534,135.87,laptop
+baseline,89,bottle,0.6978,0.0475,135.87,laptop
+baseline,90,keyboard,0.8236,0.0582,114.2,laptop
+baseline,90,book,0.6908,0.0439,114.2,laptop
+baseline,90,dining table,0.8205,0.0508,114.2,laptop
+baseline,90,bottle,0.7338,0.0258,114.2,laptop
+baseline,90,person,0.7496,0.04,114.2,laptop
+baseline,91,tv,0.7538,0.0124,160.19,laptop
+baseline,92,keyboard,0.826,0.0376,113.38,laptop
+baseline,93,book,0.9152,0.0978,153.42,laptop
+baseline,94,keyboard,0.6929,0.0365,148.11,laptop
+baseline,94,book,0.8333,0.0538,148.11,laptop
+baseline,94,mouse,0.8248,0.0511,148.11,laptop
+baseline,94,cup,0.718,0.0477,148.11,laptop
+baseline,95,cell phone,0.8975,0.0353,146.34,laptop
+baseline,95,mouse,0.8386,0.0293,146.34,laptop
+baseline,95,cup,0.8009,0.0577,146.34,laptop
+baseline,95,book,0.8696,0.0314,146.34,laptop
+baseline,95,mouse,0.8964,0.0203,146.34,laptop
+baseline,96,laptop,0.7423,0.0448,131.55,laptop
+baseline,96,laptop,0.7112,0.0489,131.55,laptop
+baseline,96,bottle,0.7871,0.0496,131.55,laptop
+baseline,96,remote,0.8886,0.0582,131.55,laptop
+baseline,97,cell phone,0.6938,0.0576,138.83,laptop
+baseline,97,cell phone,0.8447,0.0498,138.83,laptop
+baseline,98,dining table,0.7132,0.0411,159.27,laptop
+baseline,98,dining table,0.8941,0.0528,159.27,laptop
+baseline,99,cup,0.8601,0.0294,160.45,laptop
+baseline,99,laptop,0.8663,0.0447,160.45,laptop
+baseline,99,cup,0.6641,0.0307,160.45,laptop
+baseline,99,remote,0.8784,0.0468,160.45,laptop

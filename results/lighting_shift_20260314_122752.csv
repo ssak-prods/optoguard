@@ -1,0 +1,242 @@
+condition,frame_idx,class,confidence_mean,confidence_std,latency_ms,hardware,lighting_level
+lighting_shift,0,cell phone,0.7493,0.1051,141.45,laptop,strong_backlight
+lighting_shift,1,chair,0.5644,0.0744,178.03,laptop,reduced
+lighting_shift,1,laptop,0.6543,0.1174,178.03,laptop,reduced
+lighting_shift,1,bottle,0.7766,0.112,178.03,laptop,reduced
+lighting_shift,1,cell phone,0.5872,0.0964,178.03,laptop,reduced
+lighting_shift,2,dining table,0.7161,0.1083,180.29,laptop,reduced
+lighting_shift,2,cell phone,0.6982,0.1028,180.29,laptop,reduced
+lighting_shift,2,tv,0.6643,0.1074,180.29,laptop,reduced
+lighting_shift,2,laptop,0.6634,0.0905,180.29,laptop,reduced
+lighting_shift,3,person,0.6896,0.1598,176.63,laptop,strong_backlight
+lighting_shift,4,laptop,0.7041,0.1169,112.57,laptop,reduced
+lighting_shift,4,mouse,0.5731,0.1124,112.57,laptop,reduced
+lighting_shift,4,tv,0.7623,0.1038,112.57,laptop,reduced
+lighting_shift,5,chair,0.8149,0.1007,144.59,laptop,reduced
+lighting_shift,5,person,0.6464,0.1185,144.59,laptop,reduced
+lighting_shift,5,bottle,0.7583,0.1111,144.59,laptop,reduced
+lighting_shift,5,book,0.586,0.0941,144.59,laptop,reduced
+lighting_shift,6,cell phone,0.5189,0.1295,156.01,laptop,strong_backlight
+lighting_shift,6,person,0.7373,0.0977,156.01,laptop,strong_backlight
+lighting_shift,6,book,0.78,0.0502,156.01,laptop,strong_backlight
+lighting_shift,6,cup,0.511,0.1177,156.01,laptop,strong_backlight
+lighting_shift,7,cup,0.5373,0.119,144.46,laptop,strong_backlight
+lighting_shift,7,chair,0.723,0.1445,144.46,laptop,strong_backlight
+lighting_shift,7,dining table,0.7076,0.1098,144.46,laptop,strong_backlight
+lighting_shift,8,cell phone,0.6636,0.115,138.72,laptop,strong_backlight
+lighting_shift,9,keyboard,0.7438,0.0905,130.01,laptop,reduced
+lighting_shift,9,dining table,0.6449,0.144,130.01,laptop,reduced
+lighting_shift,9,chair,0.6241,0.1156,130.01,laptop,reduced
+lighting_shift,10,tv,0.7663,0.087,129.33,laptop,reduced
+lighting_shift,11,dining table,0.5594,0.1238,159.25,laptop,reduced
+lighting_shift,11,book,0.6478,0.1099,159.25,laptop,reduced
+lighting_shift,12,bottle,0.6722,0.1002,138.24,laptop,strong_backlight
+lighting_shift,12,laptop,0.7882,0.1459,138.24,laptop,strong_backlight
+lighting_shift,12,tv,0.6161,0.107,138.24,laptop,strong_backlight
+lighting_shift,13,cup,0.7082,0.1417,133.52,laptop,strong_backlight
+lighting_shift,13,bottle,0.6356,0.1249,133.52,laptop,strong_backlight
+lighting_shift,14,mouse,0.6042,0.1005,161.38,laptop,strong_backlight
+lighting_shift,15,book,0.6526,0.0694,128.03,laptop,strong_backlight
+lighting_shift,15,laptop,0.7376,0.1274,128.03,laptop,strong_backlight
+lighting_shift,16,tv,0.5389,0.1319,165.59,laptop,strong_backlight
+lighting_shift,16,remote,0.7157,0.1189,165.59,laptop,strong_backlight
+lighting_shift,16,chair,0.747,0.1849,165.59,laptop,strong_backlight
+lighting_shift,16,dining table,0.6397,0.1549,165.59,laptop,strong_backlight
+lighting_shift,17,tv,0.7959,0.1183,141.29,laptop,reduced
+lighting_shift,17,cell phone,0.6321,0.1295,141.29,laptop,reduced
+lighting_shift,18,mouse,0.7869,0.1196,183.74,laptop,strong_backlight
+lighting_shift,19,keyboard,0.8042,0.1216,170.45,laptop,reduced
+lighting_shift,19,keyboard,0.6412,0.1292,170.45,laptop,reduced
+lighting_shift,20,keyboard,0.6215,0.1288,186.76,laptop,reduced
+lighting_shift,21,cup,0.6449,0.1254,109.1,laptop,strong_backlight
+lighting_shift,22,chair,0.6453,0.136,107.82,laptop,strong_backlight
+lighting_shift,22,keyboard,0.5431,0.1391,107.82,laptop,strong_backlight
+lighting_shift,22,book,0.7926,0.1082,107.82,laptop,strong_backlight
+lighting_shift,23,laptop,0.5423,0.1988,129.62,laptop,strong_backlight
+lighting_shift,24,keyboard,0.7163,0.1125,186.15,laptop,strong_backlight
+lighting_shift,24,cell phone,0.6495,0.0957,186.15,laptop,strong_backlight
+lighting_shift,25,chair,0.6865,0.1186,137.61,laptop,reduced
+lighting_shift,26,dining table,0.7113,0.1215,136.82,laptop,reduced
+lighting_shift,26,person,0.7787,0.0801,136.82,laptop,reduced
+lighting_shift,26,cup,0.7464,0.1067,136.82,laptop,reduced
+lighting_shift,27,tv,0.6279,0.0885,119.08,laptop,reduced
+lighting_shift,27,keyboard,0.7337,0.1193,119.08,laptop,reduced
+lighting_shift,27,bottle,0.6564,0.1101,119.08,laptop,reduced
+lighting_shift,28,keyboard,0.6875,0.0989,120.77,laptop,reduced
+lighting_shift,28,book,0.7671,0.105,120.77,laptop,reduced
+lighting_shift,29,cell phone,0.6561,0.1293,125.74,laptop,reduced
+lighting_shift,29,cup,0.7103,0.0811,125.74,laptop,reduced
+lighting_shift,30,book,0.5994,0.145,138.79,laptop,strong_backlight
+lighting_shift,30,remote,0.7616,0.1415,138.79,laptop,strong_backlight
+lighting_shift,30,keyboard,0.6424,0.1678,138.79,laptop,strong_backlight
+lighting_shift,30,keyboard,0.5683,0.1504,138.79,laptop,strong_backlight
+lighting_shift,31,remote,0.533,0.1376,147.13,laptop,strong_backlight
+lighting_shift,31,cell phone,0.6239,0.1334,147.13,laptop,strong_backlight
+lighting_shift,32,tv,0.5622,0.1083,164.89,laptop,strong_backlight
+lighting_shift,33,tv,0.6027,0.0988,168.88,laptop,strong_backlight
+lighting_shift,33,mouse,0.7411,0.1591,168.88,laptop,strong_backlight
+lighting_shift,34,cup,0.7314,0.1196,157.16,laptop,strong_backlight
+lighting_shift,34,remote,0.7115,0.1155,157.16,laptop,strong_backlight
+lighting_shift,35,mouse,0.663,0.1449,158.6,laptop,strong_backlight
+lighting_shift,35,cell phone,0.5871,0.1097,158.6,laptop,strong_backlight
+lighting_shift,35,remote,0.5237,0.1574,158.6,laptop,strong_backlight
+lighting_shift,36,tv,0.6232,0.0903,125.23,laptop,reduced
+lighting_shift,36,remote,0.7084,0.099,125.23,laptop,reduced
+lighting_shift,37,remote,0.6775,0.1117,161.5,laptop,reduced
+lighting_shift,37,cell phone,0.5514,0.0613,161.5,laptop,reduced
+lighting_shift,38,cup,0.5964,0.0918,124.25,laptop,strong_backlight
+lighting_shift,38,keyboard,0.5697,0.0817,124.25,laptop,strong_backlight
+lighting_shift,38,person,0.774,0.1485,124.25,laptop,strong_backlight
+lighting_shift,38,person,0.7992,0.1711,124.25,laptop,strong_backlight
+lighting_shift,39,person,0.5028,0.1002,191.89,laptop,strong_backlight
+lighting_shift,39,bottle,0.7785,0.111,191.89,laptop,strong_backlight
+lighting_shift,40,dining table,0.5819,0.1331,160.84,laptop,strong_backlight
+lighting_shift,40,mouse,0.5772,0.1041,160.84,laptop,strong_backlight
+lighting_shift,41,mouse,0.7691,0.1076,106.29,laptop,strong_backlight
+lighting_shift,41,tv,0.5984,0.1159,106.29,laptop,strong_backlight
+lighting_shift,41,dining table,0.5971,0.1315,106.29,laptop,strong_backlight
+lighting_shift,42,cup,0.6747,0.1667,143.35,laptop,strong_backlight
+lighting_shift,42,cup,0.6961,0.1218,143.35,laptop,strong_backlight
+lighting_shift,42,cup,0.5479,0.1166,143.35,laptop,strong_backlight
+lighting_shift,42,remote,0.731,0.1119,143.35,laptop,strong_backlight
+lighting_shift,43,cell phone,0.6435,0.053,110.79,laptop,strong_backlight
+lighting_shift,43,remote,0.6648,0.1459,110.79,laptop,strong_backlight
+lighting_shift,44,bottle,0.6919,0.0806,127.45,laptop,reduced
+lighting_shift,44,book,0.5711,0.0984,127.45,laptop,reduced
+lighting_shift,45,cell phone,0.6386,0.0951,136.92,laptop,reduced
+lighting_shift,45,keyboard,0.682,0.1037,136.92,laptop,reduced
+lighting_shift,46,person,0.6676,0.1337,114.72,laptop,strong_backlight
+lighting_shift,47,keyboard,0.5219,0.153,107.84,laptop,strong_backlight
+lighting_shift,48,dining table,0.5586,0.102,147.63,laptop,reduced
+lighting_shift,49,dining table,0.7848,0.1349,107.34,laptop,reduced
+lighting_shift,49,chair,0.5717,0.1447,107.34,laptop,reduced
+lighting_shift,49,book,0.582,0.0959,107.34,laptop,reduced
+lighting_shift,49,chair,0.6928,0.1237,107.34,laptop,reduced
+lighting_shift,50,tv,0.6272,0.1119,124.54,laptop,strong_backlight
+lighting_shift,50,cell phone,0.5827,0.1374,124.54,laptop,strong_backlight
+lighting_shift,50,remote,0.7296,0.161,124.54,laptop,strong_backlight
+lighting_shift,50,person,0.5722,0.1702,124.54,laptop,strong_backlight
+lighting_shift,51,tv,0.5652,0.1325,140.22,laptop,strong_backlight
+lighting_shift,52,remote,0.7055,0.1046,121.83,laptop,reduced
+lighting_shift,52,mouse,0.771,0.1084,121.83,laptop,reduced
+lighting_shift,53,cup,0.6243,0.0799,184.82,laptop,reduced
+lighting_shift,53,cell phone,0.719,0.0957,184.82,laptop,reduced
+lighting_shift,53,dining table,0.5627,0.0889,184.82,laptop,reduced
+lighting_shift,53,tv,0.6361,0.1288,184.82,laptop,reduced
+lighting_shift,54,dining table,0.6151,0.1285,113.69,laptop,reduced
+lighting_shift,54,remote,0.589,0.0983,113.69,laptop,reduced
+lighting_shift,54,chair,0.7005,0.1066,113.69,laptop,reduced
+lighting_shift,55,dining table,0.7787,0.1326,149.17,laptop,reduced
+lighting_shift,55,remote,0.7739,0.1235,149.17,laptop,reduced
+lighting_shift,55,person,0.7859,0.1112,149.17,laptop,reduced
+lighting_shift,56,cup,0.8084,0.1953,152.25,laptop,reduced
+lighting_shift,56,remote,0.5817,0.1278,152.25,laptop,reduced
+lighting_shift,56,keyboard,0.74,0.1049,152.25,laptop,reduced
+lighting_shift,56,laptop,0.6991,0.1081,152.25,laptop,reduced
+lighting_shift,57,tv,0.7648,0.081,118.74,laptop,strong_backlight
+lighting_shift,57,book,0.7743,0.1345,118.74,laptop,strong_backlight
+lighting_shift,57,chair,0.5137,0.1886,118.74,laptop,strong_backlight
+lighting_shift,58,book,0.569,0.108,112.73,laptop,strong_backlight
+lighting_shift,58,mouse,0.6013,0.117,112.73,laptop,strong_backlight
+lighting_shift,58,dining table,0.79,0.1067,112.73,laptop,strong_backlight
+lighting_shift,59,tv,0.6465,0.1521,120.14,laptop,strong_backlight
+lighting_shift,59,person,0.6572,0.1094,120.14,laptop,strong_backlight
+lighting_shift,60,mouse,0.6125,0.0845,142.04,laptop,reduced
+lighting_shift,61,keyboard,0.7222,0.1043,118.75,laptop,reduced
+lighting_shift,61,dining table,0.728,0.1295,118.75,laptop,reduced
+lighting_shift,62,tv,0.8139,0.1414,142.68,laptop,reduced
+lighting_shift,62,cell phone,0.5789,0.1089,142.68,laptop,reduced
+lighting_shift,62,cell phone,0.6151,0.0939,142.68,laptop,reduced
+lighting_shift,63,chair,0.6377,0.1266,128.53,laptop,strong_backlight
+lighting_shift,64,bottle,0.6594,0.0887,173.98,laptop,reduced
+lighting_shift,65,dining table,0.7782,0.094,157.44,laptop,reduced
+lighting_shift,66,laptop,0.6071,0.1333,124.41,laptop,reduced
+lighting_shift,67,mouse,0.7999,0.1736,106.1,laptop,reduced
+lighting_shift,68,keyboard,0.5433,0.1449,123.25,laptop,strong_backlight
+lighting_shift,69,keyboard,0.7504,0.0842,103.16,laptop,strong_backlight
+lighting_shift,69,remote,0.542,0.1592,103.16,laptop,strong_backlight
+lighting_shift,70,bottle,0.642,0.1121,162.26,laptop,reduced
+lighting_shift,70,keyboard,0.6571,0.1057,162.26,laptop,reduced
+lighting_shift,70,dining table,0.6825,0.1001,162.26,laptop,reduced
+lighting_shift,71,keyboard,0.5886,0.1555,151.48,laptop,strong_backlight
+lighting_shift,71,bottle,0.5246,0.1473,151.48,laptop,strong_backlight
+lighting_shift,71,remote,0.6169,0.1575,151.48,laptop,strong_backlight
+lighting_shift,71,bottle,0.5016,0.1165,151.48,laptop,strong_backlight
+lighting_shift,72,cell phone,0.6664,0.0825,159.4,laptop,reduced
+lighting_shift,73,tv,0.5751,0.0905,130.76,laptop,reduced
+lighting_shift,73,cup,0.6617,0.0948,130.76,laptop,reduced
+lighting_shift,73,remote,0.7933,0.1508,130.76,laptop,reduced
+lighting_shift,74,cell phone,0.5875,0.1307,105.87,laptop,reduced
+lighting_shift,74,chair,0.6309,0.1271,105.87,laptop,reduced
+lighting_shift,74,book,0.618,0.1056,105.87,laptop,reduced
+lighting_shift,74,laptop,0.6736,0.133,105.87,laptop,reduced
+lighting_shift,75,book,0.6689,0.1292,124.88,laptop,reduced
+lighting_shift,75,mouse,0.813,0.1165,124.88,laptop,reduced
+lighting_shift,75,laptop,0.6793,0.1183,124.88,laptop,reduced
+lighting_shift,75,chair,0.8116,0.0971,124.88,laptop,reduced
+lighting_shift,76,chair,0.6257,0.1093,172.76,laptop,reduced
+lighting_shift,76,laptop,0.7099,0.0864,172.76,laptop,reduced
+lighting_shift,76,mouse,0.7573,0.1368,172.76,laptop,reduced
+lighting_shift,77,cup,0.7744,0.1402,145.97,laptop,reduced
+lighting_shift,77,mouse,0.6848,0.1213,145.97,laptop,reduced
+lighting_shift,77,laptop,0.6182,0.1169,145.97,laptop,reduced
+lighting_shift,77,dining table,0.8175,0.1223,145.97,laptop,reduced
+lighting_shift,78,tv,0.6781,0.113,102.54,laptop,strong_backlight
+lighting_shift,78,bottle,0.7307,0.1122,102.54,laptop,strong_backlight
+lighting_shift,78,person,0.669,0.1054,102.54,laptop,strong_backlight
+lighting_shift,78,mouse,0.6199,0.1261,102.54,laptop,strong_backlight
+lighting_shift,79,cup,0.6099,0.1045,82.87,laptop,reduced
+lighting_shift,80,book,0.6556,0.1087,111.89,laptop,reduced
+lighting_shift,80,book,0.8194,0.0786,111.89,laptop,reduced
+lighting_shift,80,cup,0.6623,0.1146,111.89,laptop,reduced
+lighting_shift,80,cell phone,0.644,0.1026,111.89,laptop,reduced
+lighting_shift,81,remote,0.7381,0.1124,134.23,laptop,reduced
+lighting_shift,81,cup,0.5621,0.104,134.23,laptop,reduced
+lighting_shift,81,bottle,0.7328,0.1009,134.23,laptop,reduced
+lighting_shift,81,remote,0.6159,0.1104,134.23,laptop,reduced
+lighting_shift,82,mouse,0.5553,0.1465,151.56,laptop,strong_backlight
+lighting_shift,82,laptop,0.6349,0.1045,151.56,laptop,strong_backlight
+lighting_shift,83,bottle,0.7059,0.1371,150.08,laptop,reduced
+lighting_shift,83,tv,0.6005,0.0948,150.08,laptop,reduced
+lighting_shift,84,keyboard,0.6178,0.1425,161.61,laptop,strong_backlight
+lighting_shift,84,cell phone,0.7441,0.1403,161.61,laptop,strong_backlight
+lighting_shift,84,cup,0.7756,0.0935,161.61,laptop,strong_backlight
+lighting_shift,85,bottle,0.5994,0.0967,122.37,laptop,reduced
+lighting_shift,85,cell phone,0.7052,0.0826,122.37,laptop,reduced
+lighting_shift,85,dining table,0.7216,0.095,122.37,laptop,reduced
+lighting_shift,86,cup,0.5879,0.1271,110.31,laptop,reduced
+lighting_shift,86,person,0.6808,0.1251,110.31,laptop,reduced
+lighting_shift,86,chair,0.8102,0.0816,110.31,laptop,reduced
+lighting_shift,86,chair,0.7417,0.1042,110.31,laptop,reduced
+lighting_shift,87,laptop,0.6289,0.0908,104.04,laptop,reduced
+lighting_shift,88,dining table,0.6649,0.0933,145.45,laptop,strong_backlight
+lighting_shift,88,bottle,0.5804,0.0512,145.45,laptop,strong_backlight
+lighting_shift,89,tv,0.609,0.0759,121.96,laptop,reduced
+lighting_shift,89,laptop,0.6304,0.1198,121.96,laptop,reduced
+lighting_shift,89,dining table,0.621,0.1105,121.96,laptop,reduced
+lighting_shift,89,bottle,0.7594,0.0985,121.96,laptop,reduced
+lighting_shift,90,laptop,0.7416,0.1368,146.07,laptop,strong_backlight
+lighting_shift,90,tv,0.5843,0.1035,146.07,laptop,strong_backlight
+lighting_shift,90,cup,0.6718,0.1197,146.07,laptop,strong_backlight
+lighting_shift,90,tv,0.7956,0.1202,146.07,laptop,strong_backlight
+lighting_shift,91,mouse,0.5381,0.1376,131.11,laptop,strong_backlight
+lighting_shift,92,dining table,0.5884,0.0861,127.57,laptop,reduced
+lighting_shift,92,bottle,0.7211,0.0842,127.57,laptop,reduced
+lighting_shift,92,bottle,0.6588,0.105,127.57,laptop,reduced
+lighting_shift,92,dining table,0.8066,0.0742,127.57,laptop,reduced
+lighting_shift,93,mouse,0.7383,0.083,137.09,laptop,reduced
+lighting_shift,94,book,0.7485,0.1157,180.24,laptop,strong_backlight
+lighting_shift,94,keyboard,0.5392,0.1514,180.24,laptop,strong_backlight
+lighting_shift,95,bottle,0.7191,0.1069,108.99,laptop,reduced
+lighting_shift,96,dining table,0.5502,0.118,136.59,laptop,reduced
+lighting_shift,96,cell phone,0.7882,0.1015,136.59,laptop,reduced
+lighting_shift,96,cup,0.5752,0.0997,136.59,laptop,reduced
+lighting_shift,96,mouse,0.5947,0.1114,136.59,laptop,reduced
+lighting_shift,97,laptop,0.643,0.1297,131.31,laptop,strong_backlight
+lighting_shift,97,laptop,0.6558,0.122,131.31,laptop,strong_backlight
+lighting_shift,98,remote,0.5857,0.1227,140.95,laptop,reduced
+lighting_shift,98,bottle,0.5779,0.1135,140.95,laptop,reduced
+lighting_shift,98,cup,0.587,0.1099,140.95,laptop,reduced
+lighting_shift,98,mouse,0.5886,0.0719,140.95,laptop,reduced
+lighting_shift,99,mouse,0.752,0.1168,107.24,laptop,reduced
+lighting_shift,99,keyboard,0.7354,0.1104,107.24,laptop,reduced

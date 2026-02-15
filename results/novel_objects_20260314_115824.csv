@@ -1,0 +1,265 @@
+condition,frame_idx,class,confidence_mean,confidence_std,latency_ms,hardware,novelty_label
+novel_objects,0,keyboard,0.5799,0.158,108.46,laptop,novel_object
+novel_objects,1,mouse,0.578,0.1283,94.89,laptop,novel_object
+novel_objects,1,cell phone,0.5325,0.1357,94.89,laptop,novel_object
+novel_objects,1,cell phone,0.4604,0.1495,94.89,laptop,novel_object
+novel_objects,1,laptop,0.6442,0.1399,94.89,laptop,novel_object
+novel_objects,2,cup,0.5649,0.1335,97.98,laptop,novel_object
+novel_objects,2,mouse,0.7154,0.1421,97.98,laptop,novel_object
+novel_objects,2,mouse,0.7482,0.1435,97.98,laptop,novel_object
+novel_objects,2,person,0.7468,0.1626,97.98,laptop,novel_object
+novel_objects,3,dining table,0.5532,0.1453,139.01,laptop,novel_object
+novel_objects,3,book,0.5665,0.1144,139.01,laptop,novel_object
+novel_objects,3,book,0.6291,0.1023,139.01,laptop,novel_object
+novel_objects,4,dining table,0.6088,0.1613,97.74,laptop,novel_object
+novel_objects,4,laptop,0.7422,0.108,97.74,laptop,novel_object
+novel_objects,4,mouse,0.5223,0.1427,97.74,laptop,novel_object
+novel_objects,5,laptop,0.6227,0.1786,166.88,laptop,novel_object
+novel_objects,6,cell phone,0.5028,0.1474,126.77,laptop,novel_object
+novel_objects,6,remote,0.6593,0.1731,126.77,laptop,novel_object
+novel_objects,6,person,0.661,0.1281,126.77,laptop,novel_object
+novel_objects,6,keyboard,0.6191,0.145,126.77,laptop,novel_object
+novel_objects,7,dining table,0.6126,0.114,174.0,laptop,novel_object
+novel_objects,7,person,0.4771,0.1186,174.0,laptop,novel_object
+novel_objects,8,dining table,0.4502,0.1734,93.95,laptop,novel_object
+novel_objects,8,laptop,0.6919,0.1273,93.95,laptop,novel_object
+novel_objects,9,book,0.4679,0.1118,182.04,laptop,novel_object
+novel_objects,9,remote,0.7252,0.1619,182.04,laptop,novel_object
+novel_objects,10,book,0.6614,0.153,186.13,laptop,novel_object
+novel_objects,10,keyboard,0.4803,0.1241,186.13,laptop,novel_object
+novel_objects,10,cell phone,0.7428,0.1586,186.13,laptop,novel_object
+novel_objects,11,dining table,0.6448,0.1139,169.6,laptop,novel_object
+novel_objects,11,tv,0.6581,0.1743,169.6,laptop,novel_object
+novel_objects,11,book,0.517,0.1471,169.6,laptop,novel_object
+novel_objects,11,cell phone,0.5635,0.1587,169.6,laptop,novel_object
+novel_objects,12,remote,0.4505,0.1562,104.48,laptop,novel_object
+novel_objects,12,keyboard,0.5675,0.1795,104.48,laptop,novel_object
+novel_objects,12,keyboard,0.4597,0.1482,104.48,laptop,novel_object
+novel_objects,13,bottle,0.731,0.1113,154.69,laptop,novel_object
+novel_objects,13,remote,0.4733,0.1277,154.69,laptop,novel_object
+novel_objects,14,bottle,0.6965,0.1536,108.45,laptop,novel_object
+novel_objects,14,remote,0.716,0.1357,108.45,laptop,novel_object
+novel_objects,14,cup,0.5129,0.1555,108.45,laptop,novel_object
+novel_objects,15,bottle,0.6661,0.1039,117.15,laptop,novel_object
+novel_objects,15,dining table,0.6698,0.1775,117.15,laptop,novel_object
+novel_objects,15,chair,0.5979,0.1303,117.15,laptop,novel_object
+novel_objects,16,dining table,0.6866,0.1462,101.94,laptop,novel_object
+novel_objects,16,mouse,0.5177,0.1361,101.94,laptop,novel_object
+novel_objects,16,person,0.5385,0.1255,101.94,laptop,novel_object
+novel_objects,16,bottle,0.4723,0.1136,101.94,laptop,novel_object
+novel_objects,17,bottle,0.6141,0.1718,107.77,laptop,novel_object
+novel_objects,17,bottle,0.5514,0.1788,107.77,laptop,novel_object
+novel_objects,17,dining table,0.6614,0.1345,107.77,laptop,novel_object
+novel_objects,17,mouse,0.4995,0.1712,107.77,laptop,novel_object
+novel_objects,18,book,0.5117,0.1152,97.25,laptop,novel_object
+novel_objects,18,remote,0.6162,0.174,97.25,laptop,novel_object
+novel_objects,19,cup,0.5213,0.104,156.74,laptop,novel_object
+novel_objects,19,keyboard,0.6149,0.1393,156.74,laptop,novel_object
+novel_objects,19,person,0.5582,0.1342,156.74,laptop,novel_object
+novel_objects,20,mouse,0.6301,0.116,172.74,laptop,novel_object
+novel_objects,20,person,0.5121,0.1511,172.74,laptop,novel_object
+novel_objects,20,bottle,0.5921,0.1092,172.74,laptop,novel_object
+novel_objects,21,mouse,0.5295,0.1513,138.15,laptop,novel_object
+novel_objects,21,chair,0.5055,0.1708,138.15,laptop,novel_object
+novel_objects,21,book,0.506,0.1036,138.15,laptop,novel_object
+novel_objects,21,dining table,0.5895,0.1181,138.15,laptop,novel_object
+novel_objects,22,cell phone,0.6757,0.1534,147.3,laptop,novel_object
+novel_objects,22,bottle,0.6504,0.1647,147.3,laptop,novel_object
+novel_objects,22,chair,0.7412,0.1472,147.3,laptop,novel_object
+novel_objects,23,tv,0.5756,0.1428,174.4,laptop,novel_object
+novel_objects,24,laptop,0.5929,0.1063,148.13,laptop,novel_object
+novel_objects,24,remote,0.4604,0.1457,148.13,laptop,novel_object
+novel_objects,24,tv,0.6901,0.1542,148.13,laptop,novel_object
+novel_objects,24,keyboard,0.4942,0.1759,148.13,laptop,novel_object
+novel_objects,25,cell phone,0.7416,0.1647,108.94,laptop,novel_object
+novel_objects,25,cell phone,0.4628,0.1063,108.94,laptop,novel_object
+novel_objects,25,mouse,0.5806,0.1798,108.94,laptop,novel_object
+novel_objects,25,mouse,0.4944,0.1476,108.94,laptop,novel_object
+novel_objects,26,bottle,0.4761,0.1445,181.26,laptop,novel_object
+novel_objects,26,tv,0.5478,0.1221,181.26,laptop,novel_object
+novel_objects,26,dining table,0.7251,0.101,181.26,laptop,novel_object
+novel_objects,27,cell phone,0.4945,0.147,103.03,laptop,novel_object
+novel_objects,27,bottle,0.7275,0.145,103.03,laptop,novel_object
+novel_objects,27,bottle,0.6857,0.1694,103.03,laptop,novel_object
+novel_objects,27,book,0.7134,0.1211,103.03,laptop,novel_object
+novel_objects,28,dining table,0.4612,0.122,148.06,laptop,novel_object
+novel_objects,28,cell phone,0.6355,0.1545,148.06,laptop,novel_object
+novel_objects,28,chair,0.4616,0.1712,148.06,laptop,novel_object
+novel_objects,28,book,0.6572,0.1039,148.06,laptop,novel_object
+novel_objects,29,book,0.4561,0.1654,182.24,laptop,novel_object
+novel_objects,29,cup,0.5433,0.1674,182.24,laptop,novel_object
+novel_objects,29,remote,0.6555,0.1778,182.24,laptop,novel_object
+novel_objects,29,laptop,0.4903,0.1779,182.24,laptop,novel_object
+novel_objects,30,book,0.5308,0.1333,167.86,laptop,novel_object
+novel_objects,30,mouse,0.4768,0.1353,167.86,laptop,novel_object
+novel_objects,30,chair,0.6723,0.1608,167.86,laptop,novel_object
+novel_objects,30,book,0.6963,0.1412,167.86,laptop,novel_object
+novel_objects,31,remote,0.602,0.1109,98.43,laptop,novel_object
+novel_objects,31,tv,0.7138,0.1023,98.43,laptop,novel_object
+novel_objects,32,laptop,0.7011,0.12,177.77,laptop,novel_object
+novel_objects,32,dining table,0.4652,0.1288,177.77,laptop,novel_object
+novel_objects,33,dining table,0.6015,0.1508,118.85,laptop,novel_object
+novel_objects,33,bottle,0.6544,0.1194,118.85,laptop,novel_object
+novel_objects,34,cell phone,0.7382,0.138,150.22,laptop,novel_object
+novel_objects,34,tv,0.5549,0.1131,150.22,laptop,novel_object
+novel_objects,34,cup,0.6747,0.1551,150.22,laptop,novel_object
+novel_objects,34,cup,0.4582,0.104,150.22,laptop,novel_object
+novel_objects,35,mouse,0.5175,0.1165,176.0,laptop,novel_object
+novel_objects,35,mouse,0.5729,0.1016,176.0,laptop,novel_object
+novel_objects,36,cell phone,0.6442,0.1481,138.46,laptop,novel_object
+novel_objects,37,keyboard,0.6915,0.1244,113.93,laptop,novel_object
+novel_objects,38,chair,0.7055,0.1367,133.53,laptop,novel_object
+novel_objects,38,laptop,0.59,0.1542,133.53,laptop,novel_object
+novel_objects,38,keyboard,0.5691,0.1082,133.53,laptop,novel_object
+novel_objects,39,keyboard,0.6327,0.1239,147.02,laptop,novel_object
+novel_objects,39,bottle,0.5945,0.1269,147.02,laptop,novel_object
+novel_objects,39,cup,0.6422,0.1689,147.02,laptop,novel_object
+novel_objects,40,mouse,0.5396,0.112,156.3,laptop,novel_object
+novel_objects,40,laptop,0.7199,0.1644,156.3,laptop,novel_object
+novel_objects,40,keyboard,0.5712,0.1256,156.3,laptop,novel_object
+novel_objects,41,mouse,0.5992,0.1236,162.69,laptop,novel_object
+novel_objects,41,chair,0.5714,0.1589,162.69,laptop,novel_object
+novel_objects,42,remote,0.5167,0.1428,125.63,laptop,novel_object
+novel_objects,42,dining table,0.722,0.1537,125.63,laptop,novel_object
+novel_objects,43,mouse,0.7129,0.1145,174.85,laptop,novel_object
+novel_objects,43,bottle,0.5912,0.1593,174.85,laptop,novel_object
+novel_objects,43,remote,0.6925,0.161,174.85,laptop,novel_object
+novel_objects,44,book,0.6463,0.1178,184.8,laptop,novel_object
+novel_objects,44,laptop,0.6733,0.1246,184.8,laptop,novel_object
+novel_objects,45,keyboard,0.5382,0.1681,128.42,laptop,novel_object
+novel_objects,45,dining table,0.4661,0.1508,128.42,laptop,novel_object
+novel_objects,45,keyboard,0.7333,0.1057,128.42,laptop,novel_object
+novel_objects,46,mouse,0.5645,0.1239,141.05,laptop,novel_object
+novel_objects,46,person,0.7113,0.1121,141.05,laptop,novel_object
+novel_objects,47,keyboard,0.7179,0.1789,125.58,laptop,novel_object
+novel_objects,47,cell phone,0.5449,0.1573,125.58,laptop,novel_object
+novel_objects,48,mouse,0.746,0.1251,139.78,laptop,novel_object
+novel_objects,49,cup,0.5128,0.1619,92.46,laptop,novel_object
+novel_objects,50,bottle,0.4888,0.1347,139.98,laptop,novel_object
+novel_objects,50,chair,0.571,0.1772,139.98,laptop,novel_object
+novel_objects,51,tv,0.5098,0.1298,92.46,laptop,novel_object
+novel_objects,51,person,0.7176,0.1605,92.46,laptop,novel_object
+novel_objects,51,tv,0.5072,0.1541,92.46,laptop,novel_object
+novel_objects,51,mouse,0.6701,0.1181,92.46,laptop,novel_object
+novel_objects,52,bottle,0.5651,0.1471,122.59,laptop,novel_object
+novel_objects,52,cell phone,0.4696,0.1037,122.59,laptop,novel_object
+novel_objects,52,cup,0.5868,0.1416,122.59,laptop,novel_object
+novel_objects,53,mouse,0.7486,0.1274,134.5,laptop,novel_object
+novel_objects,53,dining table,0.5578,0.1151,134.5,laptop,novel_object
+novel_objects,53,chair,0.4557,0.1179,134.5,laptop,novel_object
+novel_objects,54,person,0.6269,0.1135,112.7,laptop,novel_object
+novel_objects,54,book,0.6633,0.1634,112.7,laptop,novel_object
+novel_objects,55,cup,0.6814,0.1499,177.9,laptop,novel_object
+novel_objects,55,keyboard,0.7484,0.153,177.9,laptop,novel_object
+novel_objects,55,mouse,0.7008,0.1039,177.9,laptop,novel_object
+novel_objects,55,bottle,0.575,0.1304,177.9,laptop,novel_object
+novel_objects,56,cell phone,0.5116,0.1549,138.49,laptop,novel_object
+novel_objects,56,person,0.5403,0.1529,138.49,laptop,novel_object
+novel_objects,56,mouse,0.6061,0.1498,138.49,laptop,novel_object
+novel_objects,57,bottle,0.6035,0.1494,133.04,laptop,novel_object
+novel_objects,57,cup,0.4842,0.1085,133.04,laptop,novel_object
+novel_objects,58,cup,0.6994,0.1778,151.68,laptop,novel_object
+novel_objects,58,book,0.661,0.1236,151.68,laptop,novel_object
+novel_objects,59,laptop,0.6565,0.1385,145.72,laptop,novel_object
+novel_objects,60,mouse,0.4767,0.1088,92.27,laptop,novel_object
+novel_objects,60,keyboard,0.6507,0.1119,92.27,laptop,novel_object
+novel_objects,61,bottle,0.6671,0.1081,168.39,laptop,novel_object
+novel_objects,62,dining table,0.7466,0.1237,155.15,laptop,novel_object
+novel_objects,62,dining table,0.465,0.1651,155.15,laptop,novel_object
+novel_objects,62,person,0.7057,0.1288,155.15,laptop,novel_object
+novel_objects,63,bottle,0.4785,0.1607,133.75,laptop,novel_object
+novel_objects,63,person,0.4529,0.1111,133.75,laptop,novel_object
+novel_objects,63,mouse,0.5012,0.1286,133.75,laptop,novel_object
+novel_objects,64,cup,0.7135,0.1074,185.6,laptop,novel_object
+novel_objects,64,book,0.5049,0.1321,185.6,laptop,novel_object
+novel_objects,64,dining table,0.5315,0.1309,185.6,laptop,novel_object
+novel_objects,64,dining table,0.69,0.1519,185.6,laptop,novel_object
+novel_objects,65,remote,0.6679,0.1785,103.08,laptop,novel_object
+novel_objects,65,cell phone,0.4811,0.1729,103.08,laptop,novel_object
+novel_objects,66,mouse,0.5814,0.1489,170.62,laptop,novel_object
+novel_objects,66,book,0.6334,0.169,170.62,laptop,novel_object
+novel_objects,66,remote,0.742,0.1105,170.62,laptop,novel_object
+novel_objects,66,dining table,0.4839,0.1329,170.62,laptop,novel_object
+novel_objects,67,mouse,0.5443,0.1564,98.21,laptop,novel_object
+novel_objects,68,mouse,0.7119,0.1415,187.83,laptop,novel_object
+novel_objects,68,remote,0.6602,0.1076,187.83,laptop,novel_object
+novel_objects,69,mouse,0.6529,0.1308,139.23,laptop,novel_object
+novel_objects,69,tv,0.7176,0.149,139.23,laptop,novel_object
+novel_objects,70,cell phone,0.6017,0.1375,155.05,laptop,novel_object
+novel_objects,71,bottle,0.6754,0.1257,177.2,laptop,novel_object
+novel_objects,71,book,0.741,0.104,177.2,laptop,novel_object
+novel_objects,71,laptop,0.6151,0.1303,177.2,laptop,novel_object
+novel_objects,71,laptop,0.4736,0.1355,177.2,laptop,novel_object
+novel_objects,72,dining table,0.5841,0.1095,100.63,laptop,novel_object
+novel_objects,72,dining table,0.6736,0.1014,100.63,laptop,novel_object
+novel_objects,72,chair,0.5737,0.1446,100.63,laptop,novel_object
+novel_objects,72,person,0.6978,0.1633,100.63,laptop,novel_object
+novel_objects,73,tv,0.5121,0.1537,179.23,laptop,novel_object
+novel_objects,73,book,0.559,0.1043,179.23,laptop,novel_object
+novel_objects,73,laptop,0.7033,0.1266,179.23,laptop,novel_object
+novel_objects,74,book,0.6648,0.1091,162.23,laptop,novel_object
+novel_objects,74,mouse,0.5165,0.1273,162.23,laptop,novel_object
+novel_objects,74,mouse,0.7393,0.1234,162.23,laptop,novel_object
+novel_objects,74,tv,0.5622,0.1085,162.23,laptop,novel_object
+novel_objects,75,remote,0.6728,0.1327,140.26,laptop,novel_object
+novel_objects,75,cup,0.6333,0.115,140.26,laptop,novel_object
+novel_objects,76,laptop,0.665,0.1086,113.13,laptop,novel_object
+novel_objects,76,chair,0.464,0.1507,113.13,laptop,novel_object
+novel_objects,76,mouse,0.6266,0.1618,113.13,laptop,novel_object
+novel_objects,76,dining table,0.5872,0.1471,113.13,laptop,novel_object
+novel_objects,77,person,0.6091,0.1039,186.46,laptop,novel_object
+novel_objects,77,chair,0.7016,0.1386,186.46,laptop,novel_object
+novel_objects,78,cell phone,0.6691,0.1103,159.8,laptop,novel_object
+novel_objects,78,chair,0.6473,0.1485,159.8,laptop,novel_object
+novel_objects,79,chair,0.5756,0.1487,141.4,laptop,novel_object
+novel_objects,79,remote,0.6787,0.1219,141.4,laptop,novel_object
+novel_objects,79,book,0.7411,0.1362,141.4,laptop,novel_object
+novel_objects,80,keyboard,0.66,0.1599,105.54,laptop,novel_object
+novel_objects,80,cup,0.7029,0.1438,105.54,laptop,novel_object
+novel_objects,81,tv,0.6398,0.1161,161.76,laptop,novel_object
+novel_objects,81,keyboard,0.6643,0.1549,161.76,laptop,novel_object
+novel_objects,81,mouse,0.4898,0.1568,161.76,laptop,novel_object
+novel_objects,82,remote,0.6411,0.1568,141.38,laptop,novel_object
+novel_objects,82,book,0.6187,0.1466,141.38,laptop,novel_object
+novel_objects,83,tv,0.5358,0.1678,158.08,laptop,novel_object
+novel_objects,83,person,0.6068,0.102,158.08,laptop,novel_object
+novel_objects,83,cell phone,0.4659,0.1045,158.08,laptop,novel_object
+novel_objects,83,cup,0.6751,0.1129,158.08,laptop,novel_object
+novel_objects,84,cell phone,0.7018,0.1552,158.97,laptop,novel_object
+novel_objects,84,cup,0.5112,0.1433,158.97,laptop,novel_object
+novel_objects,84,book,0.6942,0.1082,158.97,laptop,novel_object
+novel_objects,85,tv,0.5667,0.1409,164.76,laptop,novel_object
+novel_objects,85,remote,0.5363,0.1532,164.76,laptop,novel_object
+novel_objects,86,mouse,0.5438,0.1442,129.98,laptop,novel_object
+novel_objects,86,person,0.6731,0.1162,129.98,laptop,novel_object
+novel_objects,86,dining table,0.699,0.1729,129.98,laptop,novel_object
+novel_objects,86,remote,0.6629,0.1294,129.98,laptop,novel_object
+novel_objects,87,laptop,0.5383,0.1142,168.06,laptop,novel_object
+novel_objects,87,mouse,0.4723,0.177,168.06,laptop,novel_object
+novel_objects,88,chair,0.5337,0.1211,128.97,laptop,novel_object
+novel_objects,89,cup,0.4517,0.1373,149.23,laptop,novel_object
+novel_objects,89,cell phone,0.462,0.1743,149.23,laptop,novel_object
+novel_objects,90,mouse,0.6347,0.153,167.82,laptop,novel_object
+novel_objects,91,tv,0.5574,0.1627,169.41,laptop,novel_object
+novel_objects,91,book,0.6076,0.1766,169.41,laptop,novel_object
+novel_objects,91,tv,0.4705,0.1404,169.41,laptop,novel_object
+novel_objects,91,chair,0.6129,0.1323,169.41,laptop,novel_object
+novel_objects,92,laptop,0.649,0.1265,113.68,laptop,novel_object
+novel_objects,92,cup,0.5155,0.1602,113.68,laptop,novel_object
+novel_objects,92,tv,0.5925,0.1449,113.68,laptop,novel_object
+novel_objects,93,book,0.5837,0.1724,103.24,laptop,novel_object
+novel_objects,94,mouse,0.7157,0.1305,185.97,laptop,novel_object
+novel_objects,94,bottle,0.5658,0.1432,185.97,laptop,novel_object
+novel_objects,95,tv,0.6966,0.13,94.42,laptop,novel_object
+novel_objects,95,tv,0.5837,0.1035,94.42,laptop,novel_object
+novel_objects,95,mouse,0.5078,0.1411,94.42,laptop,novel_object
+novel_objects,96,tv,0.61,0.1502,108.4,laptop,novel_object
+novel_objects,97,laptop,0.7095,0.1339,157.69,laptop,novel_object
+novel_objects,97,bottle,0.5117,0.1663,157.69,laptop,novel_object
+novel_objects,98,bottle,0.6741,0.1123,155.36,laptop,novel_object
+novel_objects,98,dining table,0.6651,0.103,155.36,laptop,novel_object
+novel_objects,98,bottle,0.4663,0.1635,155.36,laptop,novel_object
+novel_objects,98,tv,0.4711,0.1657,155.36,laptop,novel_object
+novel_objects,99,dining table,0.6391,0.1346,131.95,laptop,novel_object
+novel_objects,99,person,0.5669,0.1095,131.95,laptop,novel_object
+novel_objects,99,person,0.6424,0.1495,131.95,laptop,novel_object

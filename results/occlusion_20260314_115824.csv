@@ -1,0 +1,255 @@
+condition,frame_idx,class,confidence_mean,confidence_std,latency_ms,hardware,occlusion_level
+occlusion,0,dining table,0.4073,0.1608,153.96,laptop,75_percent
+occlusion,0,person,0.516,0.1611,153.96,laptop,75_percent
+occlusion,1,mouse,0.7221,0.1406,139.41,laptop,50_percent
+occlusion,2,remote,0.5454,0.0951,163.11,laptop,50_percent
+occlusion,2,chair,0.5834,0.0945,163.11,laptop,50_percent
+occlusion,2,person,0.7604,0.0948,163.11,laptop,50_percent
+occlusion,3,cell phone,0.7107,0.1436,114.41,laptop,50_percent
+occlusion,4,chair,0.5146,0.1934,122.45,laptop,75_percent
+occlusion,4,chair,0.4927,0.1746,122.45,laptop,75_percent
+occlusion,4,mouse,0.6424,0.1306,122.45,laptop,75_percent
+occlusion,4,book,0.4156,0.1994,122.45,laptop,75_percent
+occlusion,5,laptop,0.7304,0.1429,154.96,laptop,50_percent
+occlusion,5,cup,0.6189,0.1403,154.96,laptop,50_percent
+occlusion,6,laptop,0.6182,0.1009,163.75,laptop,50_percent
+occlusion,6,laptop,0.7612,0.1408,163.75,laptop,50_percent
+occlusion,6,bottle,0.4897,0.1362,163.75,laptop,50_percent
+occlusion,6,keyboard,0.7098,0.1519,163.75,laptop,50_percent
+occlusion,7,bottle,0.7582,0.0768,106.96,laptop,25_percent
+occlusion,7,mouse,0.791,0.0529,106.96,laptop,25_percent
+occlusion,8,laptop,0.5419,0.1804,125.01,laptop,75_percent
+occlusion,9,cup,0.6502,0.105,134.36,laptop,25_percent
+occlusion,9,keyboard,0.6757,0.0859,134.36,laptop,25_percent
+occlusion,10,cell phone,0.6757,0.1617,109.8,laptop,75_percent
+occlusion,10,chair,0.4702,0.1249,109.8,laptop,75_percent
+occlusion,10,keyboard,0.6439,0.1929,109.8,laptop,75_percent
+occlusion,11,person,0.6717,0.1953,139.14,laptop,75_percent
+occlusion,11,mouse,0.4943,0.162,139.14,laptop,75_percent
+occlusion,11,remote,0.5049,0.1319,139.14,laptop,75_percent
+occlusion,11,chair,0.4352,0.163,139.14,laptop,75_percent
+occlusion,12,remote,0.6233,0.0778,115.67,laptop,25_percent
+occlusion,12,person,0.7487,0.1081,115.67,laptop,25_percent
+occlusion,13,cup,0.441,0.1717,123.73,laptop,75_percent
+occlusion,13,dining table,0.6341,0.1274,123.73,laptop,75_percent
+occlusion,14,chair,0.5821,0.1682,92.74,laptop,75_percent
+occlusion,14,bottle,0.4364,0.1809,92.74,laptop,75_percent
+occlusion,15,book,0.471,0.1927,132.1,laptop,75_percent
+occlusion,15,laptop,0.6611,0.197,132.1,laptop,75_percent
+occlusion,16,remote,0.7613,0.0623,172.13,laptop,25_percent
+occlusion,16,laptop,0.7456,0.0965,172.13,laptop,25_percent
+occlusion,16,chair,0.7199,0.0889,172.13,laptop,25_percent
+occlusion,16,cup,0.6585,0.0808,172.13,laptop,25_percent
+occlusion,17,remote,0.6208,0.1488,97.07,laptop,50_percent
+occlusion,17,laptop,0.5912,0.119,97.07,laptop,50_percent
+occlusion,17,keyboard,0.7392,0.1419,97.07,laptop,50_percent
+occlusion,17,person,0.5582,0.1554,97.07,laptop,50_percent
+occlusion,18,laptop,0.479,0.1504,115.16,laptop,75_percent
+occlusion,18,laptop,0.5298,0.1724,115.16,laptop,75_percent
+occlusion,18,mouse,0.4813,0.1811,115.16,laptop,75_percent
+occlusion,18,dining table,0.67,0.1713,115.16,laptop,75_percent
+occlusion,19,book,0.5308,0.1404,103.48,laptop,50_percent
+occlusion,19,dining table,0.5352,0.1523,103.48,laptop,50_percent
+occlusion,19,mouse,0.7672,0.1267,103.48,laptop,50_percent
+occlusion,19,bottle,0.7636,0.1368,103.48,laptop,50_percent
+occlusion,20,mouse,0.6494,0.0924,100.65,laptop,25_percent
+occlusion,20,person,0.6456,0.0774,100.65,laptop,25_percent
+occlusion,20,person,0.7654,0.09,100.65,laptop,25_percent
+occlusion,20,keyboard,0.8538,0.0896,100.65,laptop,25_percent
+occlusion,21,chair,0.5836,0.0818,136.96,laptop,25_percent
+occlusion,22,remote,0.6822,0.1464,89.58,laptop,50_percent
+occlusion,22,cell phone,0.5121,0.0967,89.58,laptop,50_percent
+occlusion,22,cell phone,0.5523,0.1334,89.58,laptop,50_percent
+occlusion,23,chair,0.5037,0.1572,112.59,laptop,50_percent
+occlusion,23,dining table,0.6495,0.1593,112.59,laptop,50_percent
+occlusion,23,laptop,0.57,0.148,112.59,laptop,50_percent
+occlusion,24,chair,0.6932,0.0786,96.6,laptop,25_percent
+occlusion,25,bottle,0.53,0.1547,152.66,laptop,75_percent
+occlusion,26,person,0.5489,0.1531,170.32,laptop,50_percent
+occlusion,27,bottle,0.5853,0.1424,112.94,laptop,75_percent
+occlusion,27,tv,0.5491,0.1226,112.94,laptop,75_percent
+occlusion,27,book,0.3847,0.1366,112.94,laptop,75_percent
+occlusion,27,cell phone,0.6057,0.177,112.94,laptop,75_percent
+occlusion,28,keyboard,0.5521,0.1484,115.53,laptop,50_percent
+occlusion,29,remote,0.522,0.1592,123.31,laptop,50_percent
+occlusion,29,remote,0.5035,0.1422,123.31,laptop,50_percent
+occlusion,29,book,0.4961,0.1206,123.31,laptop,50_percent
+occlusion,30,keyboard,0.8665,0.0738,143.68,laptop,25_percent
+occlusion,30,book,0.5889,0.0664,143.68,laptop,25_percent
+occlusion,30,dining table,0.7272,0.0713,143.68,laptop,25_percent
+occlusion,31,keyboard,0.6782,0.096,105.09,laptop,50_percent
+occlusion,31,keyboard,0.5686,0.1073,105.09,laptop,50_percent
+occlusion,31,bottle,0.5046,0.1008,105.09,laptop,50_percent
+occlusion,31,remote,0.7152,0.1008,105.09,laptop,50_percent
+occlusion,32,bottle,0.4816,0.1116,121.18,laptop,50_percent
+occlusion,32,book,0.7084,0.0972,121.18,laptop,50_percent
+occlusion,32,bottle,0.5362,0.1214,121.18,laptop,50_percent
+occlusion,33,bottle,0.4862,0.1274,97.5,laptop,75_percent
+occlusion,33,keyboard,0.6153,0.1891,97.5,laptop,75_percent
+occlusion,33,person,0.4676,0.151,97.5,laptop,75_percent
+occlusion,33,bottle,0.5975,0.1648,97.5,laptop,75_percent
+occlusion,34,cell phone,0.6217,0.0681,151.05,laptop,25_percent
+occlusion,34,dining table,0.6238,0.06,151.05,laptop,25_percent
+occlusion,35,bottle,0.5883,0.1561,115.58,laptop,50_percent
+occlusion,35,remote,0.6675,0.1316,115.58,laptop,50_percent
+occlusion,35,laptop,0.6174,0.0995,115.58,laptop,50_percent
+occlusion,35,person,0.7646,0.1133,115.58,laptop,50_percent
+occlusion,36,book,0.5121,0.1544,161.98,laptop,75_percent
+occlusion,36,mouse,0.6723,0.1309,161.98,laptop,75_percent
+occlusion,36,book,0.561,0.1756,161.98,laptop,75_percent
+occlusion,36,dining table,0.4743,0.1972,161.98,laptop,75_percent
+occlusion,37,mouse,0.6273,0.1303,155.61,laptop,50_percent
+occlusion,37,laptop,0.5778,0.1096,155.61,laptop,50_percent
+occlusion,37,chair,0.5895,0.1552,155.61,laptop,50_percent
+occlusion,38,tv,0.5881,0.0936,150.72,laptop,25_percent
+occlusion,38,remote,0.6429,0.0979,150.72,laptop,25_percent
+occlusion,39,chair,0.5819,0.1311,163.34,laptop,75_percent
+occlusion,40,cell phone,0.6946,0.1452,111.25,laptop,50_percent
+occlusion,40,bottle,0.6147,0.1319,111.25,laptop,50_percent
+occlusion,41,remote,0.5055,0.1229,137.16,laptop,75_percent
+occlusion,41,book,0.5905,0.185,137.16,laptop,75_percent
+occlusion,41,keyboard,0.5715,0.1268,137.16,laptop,75_percent
+occlusion,41,laptop,0.5773,0.1484,137.16,laptop,75_percent
+occlusion,42,mouse,0.5832,0.152,139.82,laptop,75_percent
+occlusion,43,bottle,0.5576,0.1257,97.75,laptop,50_percent
+occlusion,43,tv,0.6474,0.1381,97.75,laptop,50_percent
+occlusion,43,laptop,0.6137,0.1174,97.75,laptop,50_percent
+occlusion,43,mouse,0.6566,0.125,97.75,laptop,50_percent
+occlusion,44,cup,0.6048,0.1573,132.41,laptop,50_percent
+occlusion,45,book,0.7166,0.0624,120.05,laptop,25_percent
+occlusion,45,dining table,0.6845,0.0559,120.05,laptop,25_percent
+occlusion,46,cup,0.3934,0.1769,117.34,laptop,75_percent
+occlusion,46,person,0.6348,0.1718,117.34,laptop,75_percent
+occlusion,46,mouse,0.62,0.1944,117.34,laptop,75_percent
+occlusion,46,remote,0.4532,0.134,117.34,laptop,75_percent
+occlusion,47,dining table,0.6496,0.0743,139.51,laptop,25_percent
+occlusion,47,cell phone,0.6359,0.0894,139.51,laptop,25_percent
+occlusion,47,chair,0.5888,0.0868,139.51,laptop,25_percent
+occlusion,48,chair,0.5813,0.0629,142.48,laptop,25_percent
+occlusion,48,cup,0.8057,0.0985,142.48,laptop,25_percent
+occlusion,48,bottle,0.7532,0.098,142.48,laptop,25_percent
+occlusion,48,tv,0.6361,0.0696,142.48,laptop,25_percent
+occlusion,49,dining table,0.6383,0.1347,112.14,laptop,50_percent
+occlusion,50,keyboard,0.4143,0.1482,144.24,laptop,75_percent
+occlusion,50,dining table,0.5652,0.1851,144.24,laptop,75_percent
+occlusion,50,remote,0.6202,0.1935,144.24,laptop,75_percent
+occlusion,50,keyboard,0.4054,0.1307,144.24,laptop,75_percent
+occlusion,51,cell phone,0.692,0.0585,116.09,laptop,25_percent
+occlusion,51,chair,0.7055,0.0583,116.09,laptop,25_percent
+occlusion,52,mouse,0.6412,0.1543,105.09,laptop,50_percent
+occlusion,52,cell phone,0.6465,0.1243,105.09,laptop,50_percent
+occlusion,52,cell phone,0.5361,0.1489,105.09,laptop,50_percent
+occlusion,52,keyboard,0.4961,0.1151,105.09,laptop,50_percent
+occlusion,53,chair,0.8691,0.0803,100.56,laptop,25_percent
+occlusion,53,dining table,0.7027,0.0795,100.56,laptop,25_percent
+occlusion,53,remote,0.832,0.0793,100.56,laptop,25_percent
+occlusion,53,bottle,0.7496,0.0978,100.56,laptop,25_percent
+occlusion,54,laptop,0.7413,0.0601,91.01,laptop,25_percent
+occlusion,54,dining table,0.7497,0.0964,91.01,laptop,25_percent
+occlusion,54,dining table,0.7449,0.0568,91.01,laptop,25_percent
+occlusion,55,book,0.7426,0.0954,159.31,laptop,25_percent
+occlusion,55,remote,0.7124,0.0631,159.31,laptop,25_percent
+occlusion,55,chair,0.6107,0.0998,159.31,laptop,25_percent
+occlusion,56,person,0.7149,0.0709,168.48,laptop,25_percent
+occlusion,56,bottle,0.7117,0.1096,168.48,laptop,25_percent
+occlusion,56,laptop,0.643,0.0943,168.48,laptop,25_percent
+occlusion,57,keyboard,0.5698,0.1333,167.22,laptop,75_percent
+occlusion,57,cell phone,0.6155,0.1851,167.22,laptop,75_percent
+occlusion,57,person,0.551,0.1626,167.22,laptop,75_percent
+occlusion,58,remote,0.4678,0.1658,117.78,laptop,75_percent
+occlusion,58,tv,0.6756,0.1743,117.78,laptop,75_percent
+occlusion,59,chair,0.8556,0.1095,176.58,laptop,25_percent
+occlusion,59,mouse,0.6181,0.102,176.58,laptop,25_percent
+occlusion,60,laptop,0.8084,0.0906,153.45,laptop,25_percent
+occlusion,60,dining table,0.6227,0.0879,153.45,laptop,25_percent
+occlusion,61,bottle,0.5701,0.1904,122.52,laptop,75_percent
+occlusion,61,bottle,0.5009,0.18,122.52,laptop,75_percent
+occlusion,61,remote,0.6609,0.1495,122.52,laptop,75_percent
+occlusion,61,dining table,0.4782,0.1202,122.52,laptop,75_percent
+occlusion,62,dining table,0.5705,0.1758,155.25,laptop,75_percent
+occlusion,63,chair,0.8275,0.0797,108.04,laptop,25_percent
+occlusion,63,book,0.8285,0.0703,108.04,laptop,25_percent
+occlusion,63,keyboard,0.6192,0.1011,108.04,laptop,25_percent
+occlusion,63,book,0.8482,0.0957,108.04,laptop,25_percent
+occlusion,64,dining table,0.5849,0.1058,145.61,laptop,25_percent
+occlusion,65,chair,0.6407,0.0913,130.0,laptop,25_percent
+occlusion,65,cell phone,0.8446,0.0681,130.0,laptop,25_percent
+occlusion,65,cup,0.608,0.0716,130.0,laptop,25_percent
+occlusion,65,bottle,0.6916,0.1042,130.0,laptop,25_percent
+occlusion,66,cup,0.7978,0.0953,124.46,laptop,25_percent
+occlusion,67,person,0.544,0.0955,152.74,laptop,50_percent
+occlusion,68,dining table,0.3828,0.1756,135.79,laptop,75_percent
+occlusion,68,bottle,0.6764,0.1538,135.79,laptop,75_percent
+occlusion,69,chair,0.6068,0.0984,94.52,laptop,25_percent
+occlusion,69,bottle,0.674,0.1029,94.52,laptop,25_percent
+occlusion,69,cell phone,0.6948,0.0988,94.52,laptop,25_percent
+occlusion,69,cell phone,0.7725,0.0906,94.52,laptop,25_percent
+occlusion,70,cell phone,0.712,0.0933,144.15,laptop,25_percent
+occlusion,71,keyboard,0.586,0.1888,172.63,laptop,75_percent
+occlusion,71,bottle,0.649,0.1312,172.63,laptop,75_percent
+occlusion,72,chair,0.6744,0.0584,120.34,laptop,25_percent
+occlusion,72,cup,0.7734,0.0649,120.34,laptop,25_percent
+occlusion,72,keyboard,0.76,0.0865,120.34,laptop,25_percent
+occlusion,72,remote,0.588,0.1008,120.34,laptop,25_percent
+occlusion,73,tv,0.5366,0.1174,135.63,laptop,50_percent
+occlusion,73,mouse,0.4964,0.1529,135.63,laptop,50_percent
+occlusion,74,laptop,0.7299,0.0856,123.5,laptop,25_percent
+occlusion,74,tv,0.8466,0.0507,123.5,laptop,25_percent
+occlusion,74,book,0.8602,0.0579,123.5,laptop,25_percent
+occlusion,74,keyboard,0.7063,0.0828,123.5,laptop,25_percent
+occlusion,75,bottle,0.585,0.0541,175.81,laptop,25_percent
+occlusion,75,cup,0.6447,0.1054,175.81,laptop,25_percent
+occlusion,75,chair,0.732,0.0877,175.81,laptop,25_percent
+occlusion,75,tv,0.8101,0.0754,175.81,laptop,25_percent
+occlusion,76,tv,0.6648,0.1094,146.93,laptop,50_percent
+occlusion,77,laptop,0.7723,0.1009,135.04,laptop,50_percent
+occlusion,78,mouse,0.6843,0.0946,141.95,laptop,50_percent
+occlusion,78,remote,0.6112,0.1567,141.95,laptop,50_percent
+occlusion,78,laptop,0.4974,0.096,141.95,laptop,50_percent
+occlusion,78,chair,0.5148,0.1329,141.95,laptop,50_percent
+occlusion,79,mouse,0.8022,0.0572,149.28,laptop,25_percent
+occlusion,79,remote,0.6212,0.0507,149.28,laptop,25_percent
+occlusion,79,dining table,0.8659,0.0814,149.28,laptop,25_percent
+occlusion,80,cell phone,0.6049,0.1899,103.36,laptop,75_percent
+occlusion,80,remote,0.6459,0.1817,103.36,laptop,75_percent
+occlusion,80,person,0.4805,0.1543,103.36,laptop,75_percent
+occlusion,81,keyboard,0.5683,0.1597,112.19,laptop,75_percent
+occlusion,82,keyboard,0.4301,0.1326,93.1,laptop,75_percent
+occlusion,82,bottle,0.6483,0.1739,93.1,laptop,75_percent
+occlusion,82,bottle,0.4485,0.1607,93.1,laptop,75_percent
+occlusion,83,dining table,0.6892,0.1052,110.5,laptop,25_percent
+occlusion,84,remote,0.8022,0.0752,138.86,laptop,25_percent
+occlusion,85,remote,0.576,0.1478,126.3,laptop,50_percent
+occlusion,85,keyboard,0.5918,0.1251,126.3,laptop,50_percent
+occlusion,86,tv,0.8744,0.1072,108.53,laptop,25_percent
+occlusion,86,bottle,0.8431,0.102,108.53,laptop,25_percent
+occlusion,87,dining table,0.4824,0.104,95.95,laptop,50_percent
+occlusion,87,keyboard,0.7154,0.1418,95.95,laptop,50_percent
+occlusion,87,laptop,0.6192,0.1314,95.95,laptop,50_percent
+occlusion,88,tv,0.7081,0.1072,155.39,laptop,50_percent
+occlusion,88,person,0.7597,0.0917,155.39,laptop,50_percent
+occlusion,89,remote,0.6432,0.1961,146.51,laptop,75_percent
+occlusion,89,person,0.6077,0.1501,146.51,laptop,75_percent
+occlusion,89,remote,0.5982,0.1283,146.51,laptop,75_percent
+occlusion,90,person,0.6718,0.1314,126.62,laptop,75_percent
+occlusion,90,cup,0.4079,0.1937,126.62,laptop,75_percent
+occlusion,91,book,0.5175,0.1798,152.48,laptop,75_percent
+occlusion,91,keyboard,0.4087,0.1307,152.48,laptop,75_percent
+occlusion,91,chair,0.4024,0.1654,152.48,laptop,75_percent
+occlusion,91,chair,0.5787,0.1305,152.48,laptop,75_percent
+occlusion,92,chair,0.6902,0.1415,166.28,laptop,50_percent
+occlusion,92,book,0.6158,0.1064,166.28,laptop,50_percent
+occlusion,92,laptop,0.5208,0.1439,166.28,laptop,50_percent
+occlusion,93,dining table,0.7198,0.0744,97.72,laptop,25_percent
+occlusion,93,tv,0.6875,0.0962,97.72,laptop,25_percent
+occlusion,94,bottle,0.5071,0.1465,130.63,laptop,50_percent
+occlusion,94,cup,0.7279,0.1388,130.63,laptop,50_percent
+occlusion,94,person,0.5445,0.15,130.63,laptop,50_percent
+occlusion,95,book,0.6989,0.0529,153.43,laptop,25_percent
+occlusion,96,cell phone,0.4893,0.1183,163.45,laptop,50_percent
+occlusion,96,dining table,0.6468,0.1285,163.45,laptop,50_percent
+occlusion,96,bottle,0.6186,0.1463,163.45,laptop,50_percent
+occlusion,97,laptop,0.6192,0.0994,89.1,laptop,25_percent
+occlusion,98,cup,0.7552,0.0952,141.57,laptop,50_percent
+occlusion,99,dining table,0.8228,0.0555,171.03,laptop,25_percent
+occlusion,99,book,0.6168,0.1065,171.03,laptop,25_percent

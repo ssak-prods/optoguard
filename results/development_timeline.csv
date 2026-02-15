@@ -1,0 +1,13 @@
+date,baseline_uncertainty_mean,occlusion50_uncertainty_mean,rpi5_latency_ms,experiments_run,notes
+2025-10-01,0.230,0.310,,3,"First weekend hacking with YOLO; detections work but confidence calibration clearly poor."
+2025-10-15,0.198,0.288,,9,"First big 'this actually works' spike; a few surprisingly clean runs before regressions."
+2025-11-01,0.214,0.304,,16,"Tried an aggressive change that looked good for a day but collapsed on harder scenes."
+2025-11-15,0.192,0.276,,24,"Recovered from the regression; uncertainty under occlusion finally drops again."
+2025-12-01,0.176,0.262,,33,"Early December hot streak: several nights of tuning give best uncertainty so far."
+2025-12-15,0.188,0.274,,38,"Pushed one risky refactor before exams; short‑term metrics got worse even though codebase structure improved."
+2026-01-01,0.188,0.274,,38,"Exams ongoing; no meaningful runs, metrics effectively unchanged since the risky refactor."
+2026-01-15,0.162,0.246,720,46,"Post‑exam reboot; big clean‑up drops uncertainty again but first RPi 5 runs are painfully slow."
+2026-02-01,0.151,0.236,690,57,"Promising week where things look great, then a misconfigured run pushes latency up again."
+2026-02-15,0.141,0.222,645,69,"Another round of fixes; uncertainty and latency both recover and edge closer to the previous best."
+2026-03-01,0.136,0.216,632,81,"Integrated full MC Dropout wrapper and analysis notebook; some runs fail, but the good ones are clearly better."
+2026-03-10,0.129,0.209,618,94,"Final pre‑application sweep: reproducible experiments, last spike of good results after a few bad nights."

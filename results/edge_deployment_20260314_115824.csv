@@ -1,0 +1,115 @@
+condition,frame_idx,class,confidence_mean,confidence_std,latency_ms,hardware
+edge_deployment,0,bottle,0.7202,0.0551,700.44,rpi5
+edge_deployment,1,cup,0.7898,0.0441,743.45,rpi5
+edge_deployment,1,dining table,0.7268,0.0711,743.45,rpi5
+edge_deployment,1,person,0.7527,0.0567,743.45,rpi5
+edge_deployment,2,tv,0.7026,0.0617,723.38,rpi5
+edge_deployment,2,cup,0.8096,0.0757,723.38,rpi5
+edge_deployment,3,person,0.775,0.0578,828.7,rpi5
+edge_deployment,3,bottle,0.6317,0.0586,828.7,rpi5
+edge_deployment,3,chair,0.7704,0.0773,828.7,rpi5
+edge_deployment,4,remote,0.873,0.0472,455.03,rpi5
+edge_deployment,4,chair,0.8736,0.0726,455.03,rpi5
+edge_deployment,4,cell phone,0.6651,0.041,455.03,rpi5
+edge_deployment,5,cell phone,0.8079,0.0584,447.16,rpi5
+edge_deployment,5,person,0.8584,0.0766,447.16,rpi5
+edge_deployment,5,tv,0.7492,0.0575,447.16,rpi5
+edge_deployment,6,cup,0.6475,0.0663,685.84,rpi5
+edge_deployment,6,dining table,0.8864,0.0479,685.84,rpi5
+edge_deployment,6,mouse,0.8035,0.035,685.84,rpi5
+edge_deployment,7,book,0.756,0.0464,800.06,rpi5
+edge_deployment,8,cell phone,0.7784,0.0482,696.73,rpi5
+edge_deployment,8,book,0.8884,0.0384,696.73,rpi5
+edge_deployment,8,book,0.6889,0.0411,696.73,rpi5
+edge_deployment,9,book,0.6576,0.0666,488.34,rpi5
+edge_deployment,9,dining table,0.7496,0.0479,488.34,rpi5
+edge_deployment,9,cup,0.7564,0.0354,488.34,rpi5
+edge_deployment,9,mouse,0.7899,0.0721,488.34,rpi5
+edge_deployment,10,laptop,0.6937,0.0743,795.65,rpi5
+edge_deployment,10,bottle,0.8237,0.0746,795.65,rpi5
+edge_deployment,11,keyboard,0.7334,0.0595,756.32,rpi5
+edge_deployment,12,tv,0.8703,0.057,625.8,rpi5
+edge_deployment,13,laptop,0.8696,0.0595,532.91,rpi5
+edge_deployment,13,cup,0.6575,0.0551,532.91,rpi5
+edge_deployment,14,tv,0.623,0.0419,548.39,rpi5
+edge_deployment,15,cell phone,0.7449,0.039,728.6,rpi5
+edge_deployment,15,keyboard,0.8046,0.0784,728.6,rpi5
+edge_deployment,16,person,0.6813,0.0544,819.59,rpi5
+edge_deployment,16,bottle,0.694,0.0417,819.59,rpi5
+edge_deployment,16,mouse,0.6779,0.0754,819.59,rpi5
+edge_deployment,16,book,0.7287,0.0759,819.59,rpi5
+edge_deployment,17,mouse,0.7107,0.0652,369.95,rpi5
+edge_deployment,18,cup,0.782,0.0585,767.44,rpi5
+edge_deployment,18,chair,0.803,0.0483,767.44,rpi5
+edge_deployment,18,mouse,0.8715,0.0339,767.44,rpi5
+edge_deployment,19,laptop,0.7646,0.0476,538.16,rpi5
+edge_deployment,19,book,0.7563,0.0541,538.16,rpi5
+edge_deployment,19,keyboard,0.6218,0.0741,538.16,rpi5
+edge_deployment,20,bottle,0.7641,0.044,432.8,rpi5
+edge_deployment,20,cell phone,0.6723,0.0481,432.8,rpi5
+edge_deployment,20,remote,0.8487,0.0631,432.8,rpi5
+edge_deployment,20,chair,0.8471,0.066,432.8,rpi5
+edge_deployment,21,dining table,0.679,0.0381,687.61,rpi5
+edge_deployment,21,chair,0.6263,0.0322,687.61,rpi5
+edge_deployment,21,keyboard,0.7859,0.0367,687.61,rpi5
+edge_deployment,21,tv,0.631,0.0586,687.61,rpi5
+edge_deployment,22,cell phone,0.7647,0.0503,433.17,rpi5
+edge_deployment,23,remote,0.8053,0.0442,789.25,rpi5
+edge_deployment,24,keyboard,0.898,0.0734,458.3,rpi5
+edge_deployment,25,chair,0.7882,0.0697,459.68,rpi5
+edge_deployment,25,cell phone,0.7945,0.0555,459.68,rpi5
+edge_deployment,26,book,0.8783,0.0598,712.09,rpi5
+edge_deployment,26,bottle,0.6843,0.0493,712.09,rpi5
+edge_deployment,27,tv,0.8607,0.0552,358.28,rpi5
+edge_deployment,28,keyboard,0.647,0.0538,763.26,rpi5
+edge_deployment,28,keyboard,0.7879,0.0739,763.26,rpi5
+edge_deployment,28,tv,0.7609,0.0359,763.26,rpi5
+edge_deployment,28,dining table,0.8046,0.0751,763.26,rpi5
+edge_deployment,29,mouse,0.8018,0.0561,798.48,rpi5
+edge_deployment,30,remote,0.7683,0.0415,787.41,rpi5
+edge_deployment,30,dining table,0.8411,0.0491,787.41,rpi5
+edge_deployment,30,keyboard,0.8453,0.0754,787.41,rpi5
+edge_deployment,31,cup,0.7536,0.0416,562.74,rpi5
+edge_deployment,32,tv,0.7344,0.0395,491.63,rpi5
+edge_deployment,33,bottle,0.7655,0.0488,638.99,rpi5
+edge_deployment,34,book,0.7345,0.0353,693.88,rpi5
+edge_deployment,34,chair,0.8024,0.0427,693.88,rpi5
+edge_deployment,35,keyboard,0.6972,0.064,632.34,rpi5
+edge_deployment,35,laptop,0.7357,0.0692,632.34,rpi5
+edge_deployment,35,dining table,0.67,0.058,632.34,rpi5
+edge_deployment,35,dining table,0.6911,0.0453,632.34,rpi5
+edge_deployment,36,chair,0.826,0.0727,737.1,rpi5
+edge_deployment,36,mouse,0.6533,0.0415,737.1,rpi5
+edge_deployment,36,remote,0.8858,0.035,737.1,rpi5
+edge_deployment,37,tv,0.7919,0.0642,743.04,rpi5
+edge_deployment,37,person,0.665,0.0782,743.04,rpi5
+edge_deployment,37,person,0.8452,0.0712,743.04,rpi5
+edge_deployment,37,dining table,0.8792,0.0518,743.04,rpi5
+edge_deployment,38,book,0.6424,0.0319,481.55,rpi5
+edge_deployment,39,chair,0.7919,0.0561,815.34,rpi5
+edge_deployment,39,remote,0.8898,0.0329,815.34,rpi5
+edge_deployment,39,cell phone,0.7993,0.0519,815.34,rpi5
+edge_deployment,39,laptop,0.8582,0.0765,815.34,rpi5
+edge_deployment,40,keyboard,0.763,0.0649,447.37,rpi5
+edge_deployment,40,keyboard,0.6675,0.0318,447.37,rpi5
+edge_deployment,40,laptop,0.8034,0.0788,447.37,rpi5
+edge_deployment,41,chair,0.7189,0.0498,848.41,rpi5
+edge_deployment,42,remote,0.817,0.076,608.87,rpi5
+edge_deployment,42,tv,0.6997,0.0715,608.87,rpi5
+edge_deployment,43,cup,0.6834,0.0782,523.74,rpi5
+edge_deployment,43,dining table,0.8803,0.0587,523.74,rpi5
+edge_deployment,43,cup,0.669,0.0553,523.74,rpi5
+edge_deployment,44,book,0.8852,0.0701,601.58,rpi5
+edge_deployment,45,keyboard,0.69,0.0521,788.06,rpi5
+edge_deployment,45,chair,0.7777,0.0685,788.06,rpi5
+edge_deployment,45,book,0.8891,0.0529,788.06,rpi5
+edge_deployment,46,person,0.755,0.0429,798.26,rpi5
+edge_deployment,46,chair,0.7974,0.0797,798.26,rpi5
+edge_deployment,46,mouse,0.8163,0.07,798.26,rpi5
+edge_deployment,46,chair,0.8875,0.0558,798.26,rpi5
+edge_deployment,47,cup,0.6895,0.0347,700.41,rpi5
+edge_deployment,48,cell phone,0.7534,0.0477,388.01,rpi5
+edge_deployment,48,keyboard,0.6953,0.0774,388.01,rpi5
+edge_deployment,48,mouse,0.8805,0.0395,388.01,rpi5
+edge_deployment,49,laptop,0.8644,0.0403,467.43,rpi5
+edge_deployment,49,laptop,0.8538,0.0718,467.43,rpi5
