@@ -1,8 +1,6 @@
 from pathlib import Path
 
 from docx import Document
-from docx.oxml import OxmlElement
-from docx.oxml.ns import qn
 from docx.shared import Inches
 
 
@@ -19,29 +17,6 @@ OUT_DIR = ROOT / "paper"
 OUT_PATH = OUT_DIR / "OptoGuard_Technical_Report.docx"
 
 
-def add_field_toc(paragraph, instruction: str) -> None:
-    """Insert a field code (e.g. TOC) that Word can update to show page numbers."""
-    # Adapted from python-docx examples for adding TOC fields.
-    run = paragraph.add_run()
-
-    fld_char_begin = OxmlElement("w:fldChar")
-    fld_char_begin.set(qn("w:fldCharType"), "begin")
-    run._r.append(fld_char_begin)
-
-    instr_text = OxmlElement("w:instrText")
-    instr_text.set(qn("xml:space"), "preserve")
-    instr_text.text = instruction
-    run._r.append(instr_text)
-
-    fld_char_separate = OxmlElement("w:fldChar")
-    fld_char_separate.set(qn("w:fldCharType"), "separate")
-    run._r.append(fld_char_separate)
-
-    fld_char_end = OxmlElement("w:fldChar")
-    fld_char_end.set(qn("w:fldCharType"), "end")
-    run._r.append(fld_char_end)
-
-
 def main() -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -50,17 +25,36 @@ def main() -> None:
 
     doc = Document()
 
-    # Front matter: contents and list of figures (Word will populate page numbers after updating fields).
+    # Manual contents page: simple static list of sections (no automatic page numbers).
     doc.add_heading("Contents", level=1)
-    p_toc = doc.add_paragraph()
-    add_field_toc(p_toc, 'TOC \\o "1-2" \\h \\z \\u')
+    toc_entries = [
+        "1. Introduction",
+        "2. Related Work",
+        "3. Methodology",
+        "4. Experimental Setup",
+        "5. Results",
+        "   5.1 Uncertainty Under Occlusion",
+        "   5.2 Uncertainty Under Lighting Variation",
+        "   5.3 Latency on Laptop and Raspberry Pi 5",
+        "   5.4 Development Timeline",
+        "6. Discussion and Limitations",
+        "7. Conclusion and Future Work",
+    ]
+    for entry in toc_entries:
+        doc.add_paragraph(entry)
 
     doc.add_page_break()
 
+    # Manual list of figures.
     doc.add_heading("List of Figures", level=1)
-    p_lof = doc.add_paragraph()
-    # This relies on figure captions being styled as 'Caption' later in the document.
-    add_field_toc(p_lof, 'TOC \\h \\z \\c "Figure"')
+    lof_entries = [
+        "Figure 1. Uncertainty vs. lighting condition",
+        "Figure 2. Uncertainty vs. occlusion level",
+        "Figure 3. Latency by condition and hardware",
+        "Figure 4. Development timeline (Oct 2025–Mar 2026)",
+    ]
+    for entry in lof_entries:
+        doc.add_paragraph(entry)
 
     doc.add_page_break()
 
@@ -92,17 +86,12 @@ def main() -> None:
 
         doc.add_paragraph(s)
 
-    # Figures with caption style so that the List of Figures field can pick them up.
+    # Figures section (static captions).
     doc.add_page_break()
     doc.add_heading("Figures", level=1)
     for caption, path in PLOTS:
         if path.exists():
             cap_para = doc.add_paragraph(caption)
-            try:
-                cap_para.style = "Caption"
-            except Exception:
-                # If the template has no 'Caption' style, fall back silently.
-                pass
             doc.add_picture(str(path), width=Inches(6.5))
             doc.add_paragraph("")
 
