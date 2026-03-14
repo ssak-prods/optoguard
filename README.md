@@ -1,6 +1,6 @@
 # OptoGuard: Uncertainty-Aware Object Detection under Distribution Shift on Edge Hardware
 
-OptoGuard is a research-focused **uncertainty-aware object detection system** designed for **edge hardware** such as the Raspberry Pi 5. It implements **Monte Carlo Dropout** on YOLOv8n and evaluates how prediction uncertainty behaves under controlled **distribution shift** conditions and hardware constraints.
+OptoGuard is a research-focused **uncertainty-aware object detection system** designed for **edge hardware** such as real-world CCTVs/cams and monitors or research-driven computational boards like the Raspberry Pi 5. It implements **Monte Carlo Dropout** on YOLOv8n and evaluates how prediction uncertainty behaves under controlled **distribution shift** conditions and hardware constraints.
 
 The central research question is:
 
